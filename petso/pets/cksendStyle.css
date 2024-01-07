@@ -1,0 +1,39 @@
+.form h1{
+    text-align: center;
+  color: #65C178;
+
+}
+form input{
+    display: flex;
+    padding: 15px;
+    margin-bottom: 30px;
+    margin-top: 15px;;
+    margin-left: 375px;
+    margin-right: 375px;
+}
+form select{
+    display: flex;
+    padding: 8px;
+    margin-bottom: 30px;
+    margin-top: 15px;;
+    margin-left: 375px;
+    margin-right: 375px;
+}
+.text{
+    font-size: 30px;
+    margin-top: 85px;
+    color: white;
+    margin-left: 20px;
+}
+.form{
+    
+    background-color: darkorange;
+    border-radius: 4%;
+    margin-top: 45px;
+    margin-bottom: 45px;
+    margin-right: 45px;
+    margin-left: 44px;
+}
+.acform form{
+   display:grid;
+}
